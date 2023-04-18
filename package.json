@@ -12,13 +12,30 @@
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
+    "sort-by": "^1.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
+    "surge": "^0.23.1",
     "vite": "^4.2.0"
-  }
+  },
+  "description": "��#\u0000 \u0000e\u0000m\u0000a\u0000-\u0000j\u0000o\u0000h\u0000n\u0000-\u0000s\u0000i\u0000m\u0000p\u0000l\u0000e\u0000-\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FM-faysalmahmud/ema-john-simple-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FM-faysalmahmud/ema-john-simple-project/issues"
+  },
+  "homepage": "https://github.com/FM-faysalmahmud/ema-john-simple-project#readme"
 }
